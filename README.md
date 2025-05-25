@@ -39,7 +39,6 @@ Además de ello también hay que destacar que fue en Francia y concretamente dur
       <h2>Música típica del Ballet</h2>
       <audio src="media/ballet-musica.mp3" controls></audio>
     </section>
-  </main>
 
   <footer>
     <marquee>¡Inscríbete hoy y recibe una clase gratis de prueba!</marquee>
