@@ -42,5 +42,5 @@ Además de ello también hay que destacar que fue en Francia y concretamente dur
 
   <footer>
     <marquee>¡Inscríbete hoy y recibe una clase gratis de prueba!</marquee>
-    <p>&copy; 2025 Academia Estrella</p>
+     2025 Academia Estrella</p>
   </footer>
