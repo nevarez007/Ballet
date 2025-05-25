@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/6d402516-334a-4326-865c-efc5055a4f98
 <html lang="es">
 <head>
   <meta charset="UTF-8">
