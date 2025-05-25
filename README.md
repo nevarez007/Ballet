@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/1c26747c-103e-407a-b2fc-2870887a8ab4
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -34,7 +32,7 @@ Además de ello también hay que destacar que fue en Francia y concretamente dur
 
     <section>
       <h2>Video de clase</h2>
-      <video src="Uploading swan-lake--dance-of-the-cygnets-the-royal-ballet.mp4…" controls width="400"></video>
+      <video src="https://github.com/user-attachments/assets/1c26747c-103e-407a-b2fc-2870887a8ab4" controls width="400"></video>
     </section>
 
     <section>
