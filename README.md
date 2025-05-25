@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -13,7 +12,6 @@
       <a href="clases.html">Clases</a>
       <a href="estilos.html">Estilos</a>
       <a href="contacto.html">Contacto</a>
-      <a href="https://es.wikipedia.org/wiki/Ballet" target="_blank">¿Qué es el Ballet?</a>
     </nav>
   </header>
 
