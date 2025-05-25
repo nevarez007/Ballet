@@ -32,7 +32,7 @@ Además de ello también hay que destacar que fue en Francia y concretamente dur
 
     <section>
       <h2>Video de clase</h2>
-      <video src="Uploading swan-lake--dance-of-the-cygnets-the-royal-ballet.mp4…" width="400" controls></video>
+      <video src="https://github.com/user-attachments/assets/09b0f7b7-1a58-4b4c-88cb-507e5afdee4a" width="400" controls></video>
     </section>
 
     <section>
