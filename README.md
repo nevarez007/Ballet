@@ -35,11 +35,6 @@ Además de ello también hay que destacar que fue en Francia y concretamente dur
       <video src="https://github.com/user-attachments/assets/1c26747c-103e-407a-b2fc-2870887a8ab4" controls width="400"></video>
     </section>
 
-    <section>
-      <h2>Música típica del Ballet</h2>
-      <audio src="media/ballet-musica.mp3" controls></audio>
-    </section>
-
   <footer>
     <marquee>¡Inscríbete hoy y recibe una clase gratis de prueba!</marquee>
      2025 Academia Estrella
