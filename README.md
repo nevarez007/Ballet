@@ -7,10 +7,10 @@
   <header>
     <h1>Clase de Ballet</h1>
     <nav>
-      <a href="index.html">Inicio</a>
-      <a href="clases.html">Clases</a>
-      <a href="estilos.html">Estilos</a>
-      <a href="contacto.html">Contacto</a>
+      <a href="https://nevarez007.github.io/Danza/index.html">Inicio</a>
+      <a href="https://nevarez007.github.io/clase/">Clases</a>
+      <a href="https://nevarez007.github.io/Informaci-n/">Estilos</a>
+      <a href="https://nevarez007.github.io/contacto/">Contacto</a>
     </nav>
   </header>
 
@@ -26,52 +26,9 @@ Además de ello también hay que destacar que fue en Francia y concretamente dur
       <img src="https://i.pinimg.com/736x/e1/74/b2/e174b2a66d59ed13fc0dfaa683a772a8.jpg" alt="Clase de Ballet" width="400">
     </section>
 
-    <section>
-      <h2>Horarios y Precios</h2>
-      <table>
-        <tr>
-          <th>Día</th>
-          <th>Horario</th>
-          <th>Nivel</th>
-          <th>Precio mensual</th>
-        </tr>
-        <tr>
-          <td>Lunes y Miércoles</td>
-          <td>4:00 PM - 5:00 PM</td>
-          <td>Principiantes</td>
-          <td>$300</td>
-        </tr>
-        <tr>
-          <td>Martes y Jueves</td>
-          <td>5:30 PM - 7:00 PM</td>
-          <td>Intermedios</td>
-          <td>$350</td>
-        </tr>
-        <tr>
-          <td>Viernes</td>
-          <td>6:00 PM - 8:00 PM</td>
-          <td>Avanzados</td>
-          <td>$400</td>
-        </tr>
-      </table>
-    </section>
 
     <section>
-      <h2>Inscríbete a Ballet</h2>
-      <form>
-        <label>Nombre completo: <input type="text" name="nombre"></label><br>
-        <label>Edad: <input type="number" name="edad"></label><br>
-        <label>Email: <input type="email" name="email"></label><br>
-        <label>Selecciona tu nivel:
-          <select>
-            <option>Principiantes</option>
-            <option>Intermedios</option>
-            <option>Avanzados</option>
-          </select>
-        </label><br>
-        <input type="submit" value="Inscribirme">
-      </form>
-    </section>
+      
 
     <section>
       <h2>Video de clase</h2>
